@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an experienced DevOps professional with 8 years of experience in IT and software development, including 4+ years of dedicated expertise in AWS DevOps. Skilled in infrastructure automation, end-to-end CI/CD pipelines, containerization, and cloud technologies, with expertise in building scalable, secure, and cost-optimized cloud environments.
+I am an experienced **DevOps professional** with **8 years of experience** in IT and software development, including **4+ years of dedicated expertise in AWS DevOps**. Skilled in infrastructure automation, end-to-end CI/CD pipelines, containerization, and cloud technologies, with expertise in building scalable, secure, and cost-optimized cloud environments.
 
 
 ## About Me
